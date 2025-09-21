@@ -12,8 +12,8 @@ Each unit includes the module title, learning outcomes, and activities/assignmen
 An Introduction to Security and Risk Management
 
 ### Learning Outcomes
-- Understand the fundamental concepts of security and risk management.  
-- Explain the importance of balancing security needs with business objectives.  
+- Discuss the various definitions of risk.  
+- Explain how to assess, qualify and mitigate risks.
 - Identify the roles and responsibilities of security professionals.  
 
 ### Activities/Assignments
