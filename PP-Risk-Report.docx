@@ -1,0 +1,53 @@
+Pampered Pets Risk Identification Report
+
+
+1.1.	Introduction
+The report evaluates risks for Pampered Pets, a small pet food business in Hashington-on-the-Water, employing four staff: Alice (owner/manager), Cathy (shop manager), Andrea (store assistant), and Harry (warehouse manager). Operating primarily through face-to-face sales (90%), with minimal email-based orders, the business uses an old networked computer for warehouse tracking, a front desk computer for sales, and a wireless gateway connecting both, with staff using smartphones on the network. Known for high-quality, locally sourced pet food, the business faces decisions about digitalization, prompted by investor Orla O’dour. The report assesses risks of maintaining current operations versus digitalizing to achieve up to 50% growth, 24% cost reduction through international supply chains, and avoid 33% customer loss by adding online features, recommending the best path forward.
+
+
+1.2.	Background and Context
+This section provides an overview of Pampered Pets’ current operations and the proposed digital transformation. It details the business’s reliance on local suppliers for quality ingredients, the basic IT infrastructure (outdated warehouse computer, front desk system, and unsecured Wi-Fi), and the operational flow of in-store and email orders. It also introduces the three key questions: potential 50% growth via online presence, 24% cost savings through international suppliers, and 33% customer retention risk without online features, setting the stage for risk assessments.
+
+
+1.3.	Risk Assessment of Current Operations
+This section analyzes risks in Pampered Pets’ existing setup, focusing on its minimal digital infrastructure and local supply chain. A structured methodology ensures a thorough evaluation of threats, their impacts, and practical mitigations to maintain business stability.
+
+
+
+
+
+•	Methodology Selection – Adopts NIST SP 800-30 for its simplicity and suitability for small businesses, justified by its clear framework for non-technical stakeholders like Cathy.
+•	Threat and Risk Identification – Identifies risks such as weak Wi-Fi security, outdated software vulnerabilities, physical theft in the store or warehouse, and supply chain disruptions due to local supplier reliance, assessing likelihood and impact using a qualitative scale.
+•	Mitigations – Proposes solutions like implementing WPA3 encryption, updating software regularly, installing physical security measures (e.g., locks, cameras), and diversifying suppliers to mitigate disruptions.
+
+
+1.4.	Risk Assessment of Digitalization
+This section evaluates risks associated with transforming Pampered Pets into a digitalized business, proposing specific changes to achieve growth and cost objectives. It uses a tailored methodology to assess threats introduced by new systems and processes.
+
+•	Methodology Selection – Chooses ISO 27005 for its focus on digital transformation risks, justified by its alignment with e-commerce and ERP system implementation.
+•	Proposed Changes – Recommends an e-commerce platform (e.g., Shopify) for online sales, an ERP system (e.g., Odoo) for inventory and order management, online marketing via social media, and partial transition to international suppliers to reduce costs by up to 24%.
+•	Threat and Risk Identification – Identifies risks like data breaches in e-commerce, ERP misconfiguration, quality issues with international suppliers, and poor website usability impacting customer retention, evaluating their likelihood and impact.
+•	Mitigations – Suggests PCI DSS-compliant payment systems, staff training for ERP use, rigorous supplier vetting, and user testing for the website to ensure a seamless online experience.
+
+
+1.5.	Comparative Analysis
+This section compares the risks of maintaining the status quo versus pursuing digitalization. It evaluates the potential for 33% customer loss without online features, the feasibility of 50% growth through an online presence, and the likelihood of 24% cost reduction with international suppliers. The analysis weighs operational, financial, and reputational impacts to guide the final recommendation.
+
+1.6.	Recommendations
+This section presents a clear recommendation on whether Pampered Pets should digitalize or maintain current operations, based on risk assessments and business goals. It includes a detailed implementation plan and timeline to ensure clarity for stakeholders.
+
+•	Recommendation – Recommends digitalization if mitigated risks allow for significant growth and cost savings, or status quo if risks outweigh benefits, supported by evidence from assessments.
+•	Implementation Plan – Outlines phases, such as e-commerce, ERP implementation, international supplier integration, and ongoing marketing efforts.
+•	Timeline – Presents a Gantt chart detailing milestones, ensuring a clear schedule for digitalization or status quo improvements.
+
+
+1.7.	Conclusion
+The report summarizes the risk assessments, highlighting key threats, mitigations, and the recommended approach for Pampered Pets. It emphasizes the balance between growth opportunities and risk management, ensuring the business can make an informed decision to achieve its objectives while maintaining stability.
+
+
+1.8.	References
+[1]	Ajagbe, S. A., Awotunde, J. B., Opadotun, A. T., & Adigun, M. O. (2023) ‘Cybersecurity in the supply chain and logistics industry: A concept-centric review’, in Advances in IoT and Security with Computational Intelligence, Lecture Notes in Networks and Systems, 755, pp. 39–50. Springer.
+
+[2]	Jazairy, A., Brho, M., Manuj, I., & Goldsby, T. J. (2024) ‘Cyber risk management strategies and integration: Toward supply chain cyber resilience and robustness’, International Journal of Physical Distribution & Logistics Management, 54(11), pp. 1–29.
+
+[3]	Reddy, R. P. (2025) ‘Understanding cybersecurity risks in supply chain management’, International Journal of Computer Trends and Technology, 73(6), pp. 34–41.
