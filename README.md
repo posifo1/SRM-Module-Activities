@@ -209,3 +209,8 @@ The Great Debate: Future Influential Trends in Security and Risk Management
 
 ---
 
+## Security and Risk Management – Visual Summary
+
+![Security and Risk Management Summary](security_risk_management_summary.png)
+
+[📄 Download the PDF version](security_risk_management_summary.pdf)
