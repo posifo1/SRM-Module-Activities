@@ -20,9 +20,6 @@ Each unit includes the module title, learning outcomes, and activities/assignmen
 
 ## Unit 2: Users, Assessments and the Risk Management Process
 
-### Module Title
-Users, Assessments and the Risk Management Process
-
 ### Learning Outcomes
 - Recognise the role of users in the security and risk management lifecycle.  
 - Understand different approaches to security assessments.  
@@ -36,9 +33,6 @@ Users, Assessments and the Risk Management Process
 ---
 
 ## Unit 3: Introduction to Threat Modelling and Management
-
-### Module Title
-Introduction to Threat Modelling and Management
 
 ### Learning Outcomes
 - Understand the concept and importance of threat modelling.  
@@ -54,9 +48,6 @@ Introduction to Threat Modelling and Management
 
 ## Unit 4: Application of Threat Modelling and Management Techniques
 
-### Module Title
-Application of Threat Modelling and Management Techniques
-
 ### Learning Outcomes
 - Apply different threat modelling techniques to real-world systems.  
 - Evaluate and prioritise threats based on risk and likelihood.  
@@ -70,9 +61,6 @@ Application of Threat Modelling and Management Techniques
 ---
 
 ## Unit 5: An Introduction to Security and Risk Standards in Industry and the Enterprise
-
-### Module Title
-Security and Risk Standards in Industry and the Enterprise
 
 ### Learning Outcomes
 - Understand the role of standards in ensuring compliance and best practice.  
@@ -88,9 +76,6 @@ Security and Risk Standards in Industry and the Enterprise
 
 ## Unit 6: The Practical Implications of Security and Risk Standards
 
-### Module Title
-Practical Implications of Security and Risk Standards
-
 ### Learning Outcomes
 - Assess the challenges of implementing security standards in practice.  
 - Understand certification and auditing processes.  
@@ -104,9 +89,6 @@ Practical Implications of Security and Risk Standards
 ---
 
 ## Unit 7: An Introduction to the Concepts of Quantitative Risk Modelling
-
-### Module Title
-Introduction to Quantitative Risk Modelling
 
 ### Learning Outcomes
 - Understand the difference between qualitative and quantitative risk assessment.  
@@ -122,9 +104,6 @@ Introduction to Quantitative Risk Modelling
 
 ## Unit 8: Implementing Quantitative Risk Models
 
-### Module Title
-Implementing Quantitative Risk Models
-
 ### Learning Outcomes
 - Implement quantitative risk assessment techniques (e.g., Monte Carlo simulations, sensitivity analysis).  
 - Interpret and communicate quantitative risk results.  
@@ -138,9 +117,6 @@ Implementing Quantitative Risk Models
 ---
 
 ## Unit 9: Risk, Business Continuity and Disaster Recovery
-
-### Module Title
-Risk, Business Continuity and Disaster Recovery
 
 ### Learning Outcomes
 - Understand the relationship between risk, continuity planning, and disaster recovery.  
@@ -156,9 +132,6 @@ Risk, Business Continuity and Disaster Recovery
 
 ## Unit 10: Practical Applications and Issues in DR Implementations
 
-### Module Title
-Practical Applications and Issues in Disaster Recovery Implementations
-
 ### Learning Outcomes
 - Identify common challenges in DR plan execution.  
 - Evaluate different DR strategies (e.g., hot site, cold site, cloud-based recovery).  
@@ -172,9 +145,6 @@ Practical Applications and Issues in Disaster Recovery Implementations
 ---
 
 ## Unit 11: Future Trends in Security and Risk Management
-
-### Module Title
-Future Trends in Security and Risk Management
 
 ### Learning Outcomes
 - Identify emerging trends in SRM (e.g., AI in cybersecurity, zero trust, supply chain risks).  
@@ -190,9 +160,6 @@ Future Trends in Security and Risk Management
 
 ## Unit 12: The Great Debate: What will be the most influential trend in SRM in the next 5 years?
 
-### Module Title
-The Great Debate: Future Influential Trends in Security and Risk Management
-
 ### Learning Outcomes
 - Critically evaluate multiple perspectives on future SRM trends.  
 - Defend a position on the most influential future development.  
@@ -205,8 +172,4 @@ The Great Debate: Future Influential Trends in Security and Risk Management
 
 ---
 
-## Security and Risk Management – Visual Summary
 
-![Security and Risk Management Summary](security_risk_management_summary.png)
-
-[📄 Download the PDF version](security_risk_management_summary.pdf)
