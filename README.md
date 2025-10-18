@@ -7,9 +7,6 @@ Each unit includes the module title, learning outcomes, and activities/assignmen
 
 ## Unit 1: An Introduction to Security and Risk Management
 
-### Module Title
-An Introduction to Security and Risk Management
-
 ### Learning Outcomes
 - Discuss the various definitions of risk.  
 - Explain how to assess, qualify and mitigate risks.
