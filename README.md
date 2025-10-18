@@ -1,4 +1,3 @@
-# SRM-Module-Activities
 # Security and Risk Management
 
 This e-portfolio documents my learning journey in **Security and Risk Management**.  
